@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👩🏼‍💻 Data Science Student at Université Paris Cité
+- 🔭 Data Eng at Aviv Group
 - 💻 Student at École 42, Paris
 - 📫 How to reach me: nemashaklimina@gmail.com
 - 😄 Pronouns: she/her
+
+
+[![mklimina's 42 stats](https://badge.mediaplus.ma/black/mklimina?1337Badge=off&42Network=off&UM6P=off)](https://github.com/oakoudad/badge42)
